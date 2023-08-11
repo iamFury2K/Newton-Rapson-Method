@@ -8,7 +8,6 @@ This Python program allows you to visualize the behavior of a quadratic function
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Features](#features)
-- [Demo](#demo)
 - [Installation](#installation)
 
 ## Description
@@ -34,9 +33,8 @@ Run the `quadratic_visualization.py` script to open the interactive visualizatio
 - Uses the Newton-Raphson method to find tangent points.
 - Allows interactive exploration of the function's behavior.
 
-## Demo
+![Figure_1](https://github.com/iamFury2K/Newton-Rapson-Method/assets/73428754/5e0fff27-fa86-4f70-ad62-5fc5e92dd7cd)
 
-Check out a live demo of the Quadratic Function Visualization [here](https://example.com).
 
 ## Installation
 
