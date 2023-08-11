@@ -10,7 +10,6 @@ This Python program allows you to visualize the behavior of a quadratic function
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Contributing](#contributing)
 
 ## Description
 
@@ -45,5 +44,3 @@ Before running the program, make sure you have Python 3.x installed on your syst
 
 ```bash
 pip install numpy matplotlib seaborn
-Contributing
-Contributions to this project are welcome! If you find any issues or have improvements to suggest, please feel free to submit a pull request or open an issue on the GitHub repository.
